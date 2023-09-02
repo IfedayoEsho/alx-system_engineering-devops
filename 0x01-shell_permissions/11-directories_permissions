@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ./script.sh
+chmod -R ugo+X
