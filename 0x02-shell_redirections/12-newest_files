@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Arlts | tail -10
+ls -t1 | head -n 10
